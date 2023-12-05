@@ -1,0 +1,15 @@
+/Users/truitt/Projects/Average/Average/bin/Debug/net7.0/Average
+/Users/truitt/Projects/Average/Average/bin/Debug/net7.0/Average.deps.json
+/Users/truitt/Projects/Average/Average/bin/Debug/net7.0/Average.runtimeconfig.json
+/Users/truitt/Projects/Average/Average/bin/Debug/net7.0/Average.dll
+/Users/truitt/Projects/Average/Average/bin/Debug/net7.0/Average.pdb
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.csproj.AssemblyReference.cache
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.AssemblyInfoInputs.cache
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.AssemblyInfo.cs
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.csproj.CoreCompileInputs.cache
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.dll
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/refint/Average.dll
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.pdb
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/Average.genruntimeconfig.cache
+/Users/truitt/Projects/Average/Average/obj/Debug/net7.0/ref/Average.dll
